@@ -1,11 +1,11 @@
 {
-	"name": "itcom/socialite",
+	"name": "iceqi/socialite",
 	"description": "laravel/socialiteiの拡張",
 	"license": "MIT",
 	"require": {
-		"php": "^8.0.2",
-		"guzzlehttp/guzzle": "^7.3",
-		"laravel/socialite": "^5.5",
+		"php": "^7.4.0",
+		"guzzlehttp/guzzle": "^6.3",
+		"laravel/socialite": "^4.3",
 		"gree/jose": "^2.2"
 	},
 	"autoload": {
